@@ -1,3 +1,3 @@
-Greetings !\
-Abdulhayee Kamboh\
-Now Part Of FAST-NU Karachi<sup>26k-Batch</sup>\
+#What Is AI ?\
+##Explain Its Uses?\
+###With Example.
