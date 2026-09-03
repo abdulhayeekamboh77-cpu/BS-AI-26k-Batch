@@ -1,3 +1,3 @@
-# What Is AI ? \
-## Explain Its Uses? \
+# What Is AI ?
+## Explain Its Uses?
 ### With Example.
