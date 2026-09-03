@@ -15,5 +15,6 @@ _this text is italic_\
 1. First
    - Second
      - Third
--[<img width="3347" height="2655" alt="FAST University Map Details" src="https://github.com/user-attachments/assets/c3e3c3a0-24c9-4d13-8c55-f68d8e7856d2" />
+-<img width="3347" height="2655" alt="FAST University Map Details" src="https://github.com/user-attachments/assets/8ee4d4ff-66a7-48b5-94fe-7a20b3560726" />
+
 
